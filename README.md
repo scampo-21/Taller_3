@@ -16,7 +16,7 @@ El sistema debe validar la entrada de datos y manejar posibles errores para evit
 
 ## 👥 Integrantes
 - Andreina Garro  
-- Samuel Campos
+- Samuel Campo
 
 ---
 
