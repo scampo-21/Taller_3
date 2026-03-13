@@ -25,6 +25,6 @@ El sistema debe validar la entrada de datos y manejar posibles errores para evit
 - visual studio
 
 ## Referencias 
-- xacaran
+- xacarana
 - chat
 - canva
