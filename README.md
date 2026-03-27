@@ -24,7 +24,5 @@ El sistema debe validar la entrada de datos y manejar posibles errores para evit
 - github
 - visual studio
 
-## Referencias 
-- xacarana
-- chat
-- canva
+## Diapositivas 
+https://www.canva.com/design/DAHFGCZ55dc/N8WFlcBR42s3A7Ctuole4Q/edit?utm_content=DAHFGCZ55dc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
